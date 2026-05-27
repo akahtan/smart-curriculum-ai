@@ -1,0 +1,7 @@
+pdf2text-arabic>=1.4.0
+pymupdf>=1.24.0
+pdfplumber>=0.11.0
+google-genai>=1.0.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+tenacity>=8.0.0
